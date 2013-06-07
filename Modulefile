@@ -7,5 +7,4 @@ summary 'Puppet module for managing ProFTPd'
 description 'A comprehensive Puppet module for managing ProFTPd'
 project_page 'http://github.com/adamjlow/adamjlow-proftpd'
 
-## Add dependencies, if any:
-# dependency 'username/name', '>= 1.2.0'
+dependency 'puppetlabs/stdlib', '>= 1.0.0'
